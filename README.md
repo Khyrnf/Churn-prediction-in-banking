@@ -11,3 +11,4 @@ This is a customer churn prediction on bank, there are 4 models used in this not
   * Avg_Utilization_Ratio and Total_Revolving_Bal (correlation: 0.62). It can be concluded that customers revolving balance will increase along with the high utilization of their card.
 * From the categorical variable we can see that 16.07% of the customers leave the bank and majority is female, the pattern of each feature is the same : majority graduate, married, income less than $40K and their card category is blue.
 * From the numerical variable the pattern is slightly different because the attrited customers tend to not use their card anymore.
+* But there is interesting part where male customer have higher credit limit than the female but the average utilization majority from the female customer. Maybe because majority of the customer were female so their utilization is higher.
