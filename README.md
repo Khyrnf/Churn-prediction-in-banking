@@ -1,7 +1,7 @@
-# Churn-prediction-on-banking
+# Churn-prediction-in-banking
 The data is from https://www.kaggle.com/sakshigoyal7/credit-card-customers
 
-This is a customer churn prediction on bank, there are 4 models used in this notebook and the best model is XGBoost Classifier with accuracy 0.97 
+This is a customer churn prediction in bank industry, there are 4 models used in this notebook and the best model is XGBoost Classifier with accuracy 0.97 
 
 ## Findings:
 
