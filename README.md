@@ -27,6 +27,7 @@ This is a customer churn prediction in bank industry, there are 4 models used in
 <img src= "https://user-images.githubusercontent.com/86004756/133547422-4f49bc98-fad5-468a-8d5d-55303aa91766.png" width="250" height="200">, <img src= "https://user-images.githubusercontent.com/86004756/133546849-b4458496-f19f-4430-8505-c089a24aab2a.png" width="250" height="200">, <img src= "https://user-images.githubusercontent.com/86004756/133547029-f334ff1b-6107-4072-850c-2bad73ebd890.png" width="250" height="200">
 
 * There is interesting part where male customer have higher credit limit than the female but their average utilization lower than female customer. Maybe because majority of the customer were female so their utilization is higher.
+
 <img src= "https://user-images.githubusercontent.com/86004756/133547094-ae1f0c0b-8791-408b-a042-71f50a72846c.png" width="250" height="200">, <img src= "https://user-images.githubusercontent.com/86004756/133547056-8bb57b5b-32a1-4a28-a9a7-57e850242410.png" width="250" height="200">
 
 ## Model Building :
